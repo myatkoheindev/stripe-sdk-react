@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-
+```bash
 git clone <https://github.com/myatkoheindev/stripe-sdk-react.git>
 cd stripe-sdk-react
 
